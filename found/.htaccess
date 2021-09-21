@@ -1,0 +1,4 @@
+AuthName "Si tu as trouvé le mot de passe et le login bien joué :D"
+AuthType Basic
+AuthUserFile "/home/site/www/admin/.htpasswd"
+Require valid-user
